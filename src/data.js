@@ -1,7 +1,7 @@
 export const pizzaData = [
   {
     name: "Focaccia",
-    ingredients: "Bread with italian olive oil and rosemary",
+    ingredients: "Bread with italian olive oil, mozarella and rosemary",
     price: 10,
     photoName: "pizzas/focaccia.jpg",
     soldOut: false,
